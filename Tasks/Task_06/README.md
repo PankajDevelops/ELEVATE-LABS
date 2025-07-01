@@ -3,15 +3,11 @@
 
 ---
 
-When you open my program, it asks you what you want to do.
+I made a cool To-Do List app that you can see and click on, not just boring text in a black window. It's like a real program on the computer!
 
-You can choose option 1 to see all the notes you've already written. It's like flipping through the pages of your notebook.
+I made a window, and at the top, there's a box where you can type in what you need to do, like "finish homework" or "walk the dog." Next to it, there's a big "Add Task" button. When you click it, whatever you typed pops into a list in the middle of the window.
 
-If you want to write something new, you pick option 2. The computer will ask you to type your note, and when you press Enter, poof! It saves it.
-
-The coolest part is that it saves everything in a secret file called notes.txt. So, even if you turn off the computer and come back tomorrow, your notes will still be there! It doesn't forget.
-
-Oh, and if you want to start all over, you can pick option 3 to erase everything. It's like getting a brand new, clean notebook. And when you're all done, you just pick option 4 to close the program.
+If you finish a task, you just click on it in the list, and then you press the "Delete Selected Task" button at the bottom, and poof! It's gone. It was super fun making the buttons actually do stuff!
 
 ---
 
